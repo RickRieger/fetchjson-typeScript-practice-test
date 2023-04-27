@@ -11,3 +11,5 @@
 - Run (node index.js) to run the new file
 
 - To combine both commands we can use ts-node (ts-node index.ts)
+
+- testing
